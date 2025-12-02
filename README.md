@@ -1,6 +1,5 @@
-## **Dae meus mano 👋
+**Dae meus mano 👋
 
-<!--
 ** I:
 - 🛠️ Eu Estou trabalhando no Projeto nighthost.expo.app
 - 🔨 Eu estou Aprendendo Atualmente a linguagem de programação React
@@ -10,4 +9,3 @@
 - 😄 Pronomes: Ele/Dele
 - ⭐ Fato: Tenho TDAH
 - 🧒 Idade: 14 y
--->
