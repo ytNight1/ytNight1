@@ -1,10 +1,10 @@
 ## Dae meus mano 👋
 
 ## I:
-- 🛠️ Eu Estou trabalhando no Projeto nighthost.expo.app
-- 🔨 Eu estou Aprendendo Atualmente a linguagem de programação React
+- 🛠️ Eu Estou trabalhando no Projeto: https://nighthost.expo.app
+- 🔨 Eu estou Aprendendo Atualmente a linguagem de programação React!
 - 🤔 Busco Ajudar Com: Recomendações de Animes/Mangás
-- 💬 Ask me about Meu Projeto, Animes, Manhwas, Mangás, Programação
+- 💬 Fale Comigo Sobre: Meu Projeto, Animes, Manhwas, Mangás, Programação
 - 📫 Como Contatar-me: contatonighthost@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⭐ Fato: Tenho TDAH
