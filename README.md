@@ -1,16 +1,13 @@
-## Hi there 👋
+## **Dae meus mano 👋
 
 <!--
-**ytNight1/ytNight1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+** I:
+- 🛠️ Eu Estou trabalhando no Projeto nighthost.expo.app
+- 🔨 Eu estou Aprendendo Atualmente a linguagem de programação React
+- 🤔 Busco Ajudar Com: Recomendações de Animes/Mangás
+- 💬 Ask me about Meu Projeto, Animes, Manhwas, Mangás, Programação
+- 📫 Como Contatar-me: contatonighthost@gmail.com
+- 😄 Pronomes: Ele/Dele
+- ⭐ Fato: Tenho TDAH
+- 🧒 Idade: 14 y
 -->
