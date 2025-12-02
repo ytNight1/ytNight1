@@ -1,6 +1,6 @@
-**Dae meus mano 👋
+## Dae meus mano 👋
 
-** I:
+## I:
 - 🛠️ Eu Estou trabalhando no Projeto nighthost.expo.app
 - 🔨 Eu estou Aprendendo Atualmente a linguagem de programação React
 - 🤔 Busco Ajudar Com: Recomendações de Animes/Mangás
