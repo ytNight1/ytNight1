@@ -10,6 +10,6 @@
 - ⭐ Fato: Tenho TDAH
 - 🧒 Idade: 14 y
 
-![Veja meu projeto por Aqui!]([animeshentai.biz)
+![Veja meu projeto por Aqui!](https://animeshentai.biz)
 
 ![img](https://github.com/user-attachments/assets/cc1a642a-9a15-4344-97bd-a78c519a6455)
