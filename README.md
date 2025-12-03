@@ -9,7 +9,5 @@
 - 😄 Pronomes: Ele/Dele
 - ⭐ Fato: Tenho TDAH
 - 🧒 Idade: 14 y
-
-[Veja meu projeto por Aqui!](https://animeshentai.biz)
-
-![img](https://github.com/user-attachments/assets/cc1a642a-9a15-4344-97bd-a78c519a6455)
+- 
+[![img](https://github.com/user-attachments/assets/cc1a642a-9a15-4344-97bd-a78c519a6455)](animeshentai.biz)
