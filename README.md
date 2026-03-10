@@ -1,13 +1,12 @@
-## Dae meus mano 👋
+## Salve, Como Vai?
 
-## I:
-- 🛠️ Eu Estou trabalhando no Projeto: NightHost
-- 🔨 Eu estou Aprendendo Atualmente a linguagem de programação React!
-- 🤔 Busco Ajudar Com: Recomendações de Animes/Mangás
-- 💬 Fale Comigo Sobre: Meu Projeto, Animes, Manhwas, Mangás, Programação
-- 📫 Como Contatar-me: contatonighthost@gmail.com
-- 😄 Pronomes: Ele/Dele
-- ⭐ Fato: Tenho TDAH
-- 🧒 Idade: 14 y
+🛠️ Eu Estou trabalhando no Projeto: Craftmind-Nexus
+🔨 Eu estou Atualmente Aprendendo: A Lidar Com Databases(PostgreSQL, MySQL e SQLite)!
+🤔 Busco Ajudar Com: Recomendações de Animes/Mangás e Implementação de Uma Educação Mais Interativa.
+💬 Fale Comigo Sobre: Meu Projeto, Animes, Manhwas, Mangás e Programação;
+📫 Como Contatar-me: contatonighthost@gmail.com
+😄 Pronome(s): Ele/Dele
+⭐ Fato(s): Tenho TDAH e Sou Viciado Em Tecnologia!
+🧒 Idade: 15 Anos
 
-[![img](https://github.com/user-attachments/assets/cc1a642a-9a15-4344-97bd-a78c519a6455)](https://animeshentai.biz)
+<img src="./GIF_PERFIL.gif" width="500" height="auto" alt="Descrição do GIF">
