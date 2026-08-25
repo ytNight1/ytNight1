@@ -16,4 +16,5 @@
 
 🧒 Idade: 15 Anos
 
-[![Imagem do perfil...](https://github.com/ytNight1/ytNight1/blob/main/GIF_PERFIL.gif?raw=true)](https://hentais.vip/)
+[![Imagem do perfil...](<img width="498" height="374" alt="bocchi-punch" src="https://github.com/user-attachments/assets/297cf9c7-f2b6-4f14-a593-0fb12dab2e14" />
+)](https://hentais.vip/)
