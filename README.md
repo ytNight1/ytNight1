@@ -16,4 +16,4 @@
 
 🧒 Idade: 15 Anos
 
-[![Imagem do perfil...](<img width="320" height="240" alt="GIF_PERFIL" src="https://github.com/user-attachments/assets/ba65bdf5-9de4-4224-9688-8b525443574c" />)](https://hentais.vip/)
+[![Imagem do perfil...](https://github.com/ytNight1/ytNight1/blob/main/GIF_PERFIL.gif?raw=true)](https://hentais.vip/)
